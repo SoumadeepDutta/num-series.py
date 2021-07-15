@@ -1,0 +1,4 @@
+list=[44,-1,2,9,-17]
+for num in list:
+    if num>0:
+        print(num,end=' ')
